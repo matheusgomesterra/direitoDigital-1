@@ -72,3 +72,23 @@ Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas
 Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios.      (Incluído pela Lei nº 13.853, de 2019)      Vigência
 
 -> Impacto: Essa lei traz um impacto enorme nas relações comerciais de empresas que utilizam os dados das pessoas para prospecção de clientes, uma vez que garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos;
+
+
+### COMPLIENCE 
+
+Hoje, estar em compliance também significa proteger os dados dos seus clientes.
+
+O compliance é o ato de estar em conformidade com determinadas as leis, normas e regras. Pode ser tanto em relação às leis federais ou às políticas corporativas.
+
+O compliance em empresas serve como base para criação de um plano de ação em relação às políticas, regulamentos e diretrizes que incidem sobre sua operação.
+
+Ou seja: como um negócio vai cumprir com as leis federais? Através do compliance interno — suas políticas, procedimentos e normas.
+
+Por exemplo, alguns tipos de negócios não são obrigados a elaborar a Demonstração do Resultado do Exercício (DRE). No entanto, seu desenvolvimento ajuda gestores de todos os tipos de empresa a entenderem os resultados líquidos da empresa em um determinado período. Por isso, é comum que a maioria dos gestores elabore a DRE, como uma forma de contribuir com a própria gestão financeira, aprofundando seu conhecimento sobre a situação da empresa e quais passos tomar em seu futuro.
+
+-> Principais Características:
+  -> Identificação dos riscos
+  -> Prevenção
+  -> Monitoramento das ações
+  -> Resolução da ocorrência
+  -> Treinamento à equipe
