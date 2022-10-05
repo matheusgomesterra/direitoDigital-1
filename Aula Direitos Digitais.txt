@@ -1,0 +1,34 @@
+DOCUMENTO
+	-> ELETRÔNICO
+	-> DIGITAL
+
+ASSINATURA
+	-> ELETRÔNICA
+	-> DIGITAL
+
+CERTIFICADO DIGITAL
+	-> CRIPTOGRAFIA
+		-> HASH
+		-> SIMÉTRICA
+		-> ASSIMÉTRICA
+
+
+CERTIFICADO DIGITAL (Paga por isso) -> VALIDA -> ASSINATURA -> VALIDA -> DOCUMENTO
+
+
+DOCUMENTO ELETRÔNICO (Tudo que não esta no papel involve hardware (Pen Drive, VHS, CD...)) > DOCUMENTO DIGITAL (Documentos transformados em digital)
+
+Necessário validar:
+	-> Remetente;
+	-> Sigilo;
+	-> Alterável;
+	-> Validação;
+
+ASSINATURA ELETRÔNICA (E-mail, ID, Telefone, Facebook,...) -> Mas não é 100% segura pois não tem criptografia. Juridicamente vale.
+ASSINATURA DIGITAL -> Já tem criptografia -> Certificado Digital
+
+ASSINATURA ELETRÔNICA não necessáriamente tem ASSINATURA DIGITAL.
+
+CRIPTOGRAFIA
+	-> SIMÉTRICA -> Menos segura (AES) 1x chave criptografa remetente / destino
+	-> ASSIMÉTRICA -> Mais segura -> USADAS PELAS ASSINATURAS DIGITAIS ->  1x chave privada e 1x chave pública
